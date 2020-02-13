@@ -1,4 +1,4 @@
-# Vaㄴㅁriable Assignment
+# Variable Assignment
 
 ## Objectives
 
